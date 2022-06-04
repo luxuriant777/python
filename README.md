@@ -1,1 +1,2 @@
-# python
+- [Preview](https://luxuriant777.github.io/python/)
+- [Pull Request](https://github.com/luxuriant777/python/pull/1/files)
